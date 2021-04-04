@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Portable Power Source.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Portable Power Source.SchDoc|Designator=Portable Power Source|SchDesignator=Portable Power Source|FileName=Control System.SchDoc|SymbolType=Normal|RawFileName=Control System.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Portable Power Source.SchDoc|Designator=Portable Power Source|SchDesignator=Portable Power Source|FileName=Battery Management.SchDoc|SymbolType=Normal|RawFileName=Battery Management.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
